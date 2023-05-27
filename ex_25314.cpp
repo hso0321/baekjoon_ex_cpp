@@ -6,9 +6,9 @@ int main()
     std::cin >> N;
     for (size_t i = 0; i < N/4; i++)
     {
-        /* code */
+        std::cout<< "long ";
     }
-    
+    std::cout << "int"<< std::endl;
 
     return 0;
 }
